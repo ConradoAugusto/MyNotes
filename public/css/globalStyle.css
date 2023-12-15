@@ -1,0 +1,40 @@
+.textbox {
+  height: 40vh;
+}
+
+.hoverMenu {
+  font-size: 1rem;
+  transform: scale(1);
+  transition: 0.5s;
+  margin-right: 1rem;
+}
+
+.hoverMenu:hover {
+  font-size: 1rem;
+  transform: scale(1.2);
+  transition: 0.5s;
+}
+
+.hoverEdit {
+  transition: 0.5s;
+  margin-right: 1rem;
+}
+
+.hoverEdit:hover {
+  transform: scale(1.3);
+  transition: 0.5s;
+}
+
+.hoverDelete {
+  transition: 0.5s;
+  margin-right: 1rem;
+}
+
+.hoverDelete:hover {
+  transform: scale(1.3);
+  transition: 0.5s;
+}
+
+.bgBlue {
+  background: #035be7;
+}
